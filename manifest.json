@@ -1,0 +1,21 @@
+{
+	"manifest_version": "2",
+	"api_version": "1",
+	"name": "Shell",
+	"description": "Run shell commands",
+	"developer_name": "Damien \"Tina\" Savatier",
+	"icon": "images/icon.png",
+	"options": {
+		"query_debounce": 0.1
+	},
+	"preferences": [
+		{
+			"id": "shell_kw",
+			"type": "keyword",
+			"name": "Shell",
+			"description": "Shell extension",
+			"default_value": ">"
+		}
+	]
+}
+
