@@ -30,4 +30,4 @@ then [submit a Pull Request!](https://github.com/skielred/Ulauncher-Shell/compar
 
 Ulauncher is open source and can be found on GitHub @ [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher/).
 
-Icon from [shareicon.net](https://www.shareicon.net/terminal-94589).
+~~I lost the icon source I'm sorry~~.
